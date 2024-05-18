@@ -4,7 +4,7 @@ This project is an optimal task scheduler that minimizes a data center's computa
 accounting for the heterogeneous thermal correlation among servers and using `python`+`cvxpy`
 
 This is implementation is based on research paper [Thermal-aware energy-efficient task scheduling for DVFS-enabled data centers
-Dong Han;Tao Shu 2015](https://ieeexplore-ieee-org.mutex.gmu.edu/document/7069401/) and the Python trsanlation for [Data-center-energy-optimization] (https://github.com/minicpp/Data-center-energy-optimization)
+Dong Han;Tao Shu 2015](https://ieeexplore-ieee-org.mutex.gmu.edu/document/7069401/) and the Python translation for [Data-center-energy-optimization] (https://github.com/minicpp/Data-center-energy-optimization)
 
 ## Dependencies
 
