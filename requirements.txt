@@ -1,0 +1,6 @@
+numpy
+ecos==2.0.5
+cmake
+osqp==0.6.1
+scs==2.1.3
+cvxpy

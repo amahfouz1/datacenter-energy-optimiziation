@@ -1,0 +1,22 @@
+{
+  "number_of_machines": 5,
+  "ac_supply_temperature": 15,
+  "red_temperature": 18,
+  "air_density": 1190,
+  "flow_speed": 0.0595,
+  "heat_capacity": 1.005,
+  "airflow_rec_correlation": [
+    [0.000000, 0.000000, 0.000000, 0.000000, 0.000000],
+    [0.000000, 0.000000, 0.000000, 0.000000, 0.000000],
+    [0.000000, 0.000000, 0.000000, 0.500000, 0.000000],
+    [0.000000, 0.000000, 0.500000, 0.000000, 0.000000],
+    [0.000000, 0.000000, 0.000000, 0.000000, 0.000000]
+  ],
+  "number_of_tasks": 5,
+  "task_req_mhz": 480,
+  "machine_max_frequency": 4700,
+  "cpu_max_power": 316,
+  "cpu_idle_power": 84,
+  "cpu_heat_capacity": 0.896,
+  "cpu_mass": 68
+}
